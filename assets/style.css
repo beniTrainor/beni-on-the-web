@@ -1,0 +1,19 @@
+body {
+  max-width: 700px;
+  margin: 40px auto;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  margin-bottom: 40px;
+}
+
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
