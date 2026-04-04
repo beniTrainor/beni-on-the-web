@@ -1,6 +1,8 @@
 title: Beni On The Web
 description: Personal website
 markdown: kramdown
+baseurl: "/beni-on-the-web"
+url: "https://benitrainor.github.io/"
 collections:
   pages:
     output: true
