@@ -10,7 +10,7 @@ Welcome to *Beni On The Web*! This is a place where I, Beni, want to publish wri
 <ul>
 {% for page in site.pages %}
 <li>
-  <a href="{{ page.url }}">{{ page.title }}</a>
+  <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
 </li>
 {% endfor %}
 </ul>
@@ -20,7 +20,7 @@ Welcome to *Beni On The Web*! This is a place where I, Beni, want to publish wri
 <ul>
 {% for page in site.lists %}
 <li>
-  <a href="{{ page.url }}">{{ page.title }}</a>
+  <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
 </li>
 {% endfor %}
 </ul>
