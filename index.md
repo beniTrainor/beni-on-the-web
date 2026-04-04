@@ -3,10 +3,10 @@ layout: home
 title: Home
 ---
 
-# Beni Trainor
+Welcome to *Beni On The Web*! This is a place where I, Beni, want to publish writings on various topics of personal relevance.
 
-Welcome to my website.
+## All pages
 
-## Pages
-
-- [About](/about)
+- [[About me]]
+- [[About this website]]
+- [[Lists]]
