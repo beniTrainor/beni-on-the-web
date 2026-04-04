@@ -1,3 +1,8 @@
 title: Beni On The Web
 description: Personal website
 markdown: kramdown
+collections:
+  pages:
+    output: true
+  lists:
+    output: true
