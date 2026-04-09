@@ -3,7 +3,9 @@ layout: default
 title: Beni On The Web
 ---
 
-Welcome to *Beni On The Web*! This is a place where I, Beni, want to publish writings on various topics of personal relevance.
+Welcome to this site! Have a look around.
+
+I've written pages and lists of things that I find personally relevant.
 
 ## All pages
 
