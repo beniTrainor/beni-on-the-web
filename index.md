@@ -3,9 +3,13 @@ layout: default
 title: Beni On The Web
 ---
 
-Welcome to this site! Have a look around.
+Welcome! 👋🏻 This site contains information about me, **Beni Trainor**, in the form of pages and lists. You can read more about me or this site in separate pages.
 
-I've written pages and lists of things that I find personally relevant.
+- [About me]()
+- [About this site]()
+
+
+
 
 ## All pages
 
@@ -26,3 +30,9 @@ I've written pages and lists of things that I find personally relevant.
 </li>
 {% endfor %}
 </ul>
+
+
+
+## Comments, suggestions and corrections
+
+Want to comment, suggest or correct something? You can do so by sending an email or opening a pull request.
