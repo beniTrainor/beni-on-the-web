@@ -35,4 +35,6 @@ Welcome! 👋🏻 This site contains information about me, **Beni Trainor**, in 
 
 ## Comments, suggestions and corrections
 
-Want to comment, suggest or correct something? You can do so by sending an email or opening a pull request.
+Want to comment, suggest or correct something? You can do so by sending an email or opening an issue on the GitHub repository of this site.
+
+[https://github.com/beniTrainor/beni-on-the-web/issues](https://github.com/beniTrainor/beni-on-the-web/issues)
