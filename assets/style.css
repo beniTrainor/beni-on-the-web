@@ -1,5 +1,5 @@
 body {
-  max-width: 700px;
+  max-width: 70ch;
   margin: 40px auto;
   font-family: system-ui, sans-serif;
   line-height: 1.6;
@@ -16,4 +16,17 @@ nav a {
 
 a:hover {
   text-decoration: underline;
+}
+
+h2 {
+  margin-top: 3rem;
+  margin-bottom: 0;
+}
+
+ul {
+  margin-top: 0.5rem;
+}
+
+p {
+  margin: 0.4rem;
 }
