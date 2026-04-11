@@ -7,17 +7,27 @@ body {
   padding-right: 10px;
 }
 
-header {
-  margin-bottom: 40px;
-}
-
 nav a {
   margin-right: 15px;
   text-decoration: none;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
 a:hover {
-  text-decoration: underline;
+  background-color: black;
+  color: lightgrey;
+  padding: 0.4rem;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 3.8rem;
+  text-align: center;
+  line-height: 1.2;
 }
 
 h2 {
@@ -27,10 +37,6 @@ h2 {
 
 ul {
   margin-top: 0.5rem;
-}
-
-p {
-  margin: 0.4rem;
 }
 
 img {
